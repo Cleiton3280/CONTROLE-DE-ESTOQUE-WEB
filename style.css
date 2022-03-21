@@ -1,5 +1,5 @@
 h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Comic Sams', Courier, monospace;
     text-align: center;
 }
 
@@ -12,10 +12,10 @@ h1{
 #botoes, #saida, #wrap{
     margin-top: 3px;
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid rgb(247, 8, 8);
     border-radius: 5px;
     padding: 1%;
-    background-color: rgb(240, 255, 244);
+    background-color: rgb(16, 158, 209);
     margin-right: 2%;
     margin-left: 2%;
 }
@@ -23,13 +23,13 @@ h1{
 button{
     width: 30%;
     height: 35px;
-    background-color:rgb(0, 95, 139);
+    background-color:rgb(26, 11, 160);
     color: white;
     border-radius: 5px;
 }
 
 button:hover, tr:hover{
-    background-color:yellow;
+    background-color:rgb(255, 0, 0);
     color: black;
 }
 
@@ -41,7 +41,7 @@ button:hover, tr:hover{
 table{
     border: solid black;
     border-radius: 10px;
-    background-color: rgb(0, 95, 139);
+    background-color: rgb(26, 11, 160);
     color: white;
 }
 
